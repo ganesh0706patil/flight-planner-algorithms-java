@@ -10,6 +10,6 @@ This Java project implements a Flight Planner using two algorithms:
 - **input/**: Contains the input flight data file (`largeData.txt`).
 
 ## How to Run
-- *javac FlightPlannerApp.java
-- *java FlightPlannerApp largeData.txt "SourceCity" "DestinationCity" output.txt
+- **javac FlightPlannerApp.java
+- **java FlightPlannerApp largeData.txt "SourceCity" "DestinationCity" output.txt
 
