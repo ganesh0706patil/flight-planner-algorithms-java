@@ -12,4 +12,5 @@ This Java project implements a Flight Planner using two algorithms:
 ## How to Run
 - javac FlightPlannerApp.java
 - java FlightPlannerApp largeData.txt "SourceCity" "DestinationCity" output.txt cost
+- Example : FlightPlannerApp largeData.txt "Los Angeles" "D.C." output.txt cost
 
